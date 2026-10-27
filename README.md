@@ -1,68 +1,71 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Arthur+Henrique+dos+Santos;Software+Engineer;Computer+Science+Student" alt="Animated Header" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Arthur+Henrique+dos+Santos;Computer+Science+Student;Software+Developer" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
 
+<div align="center">
+
 ### Practicing & Using
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="55" height="55" alt="C#" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="55" height="55" alt=".NET" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="55" height="55" alt="TypeScript" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="55" height="55" alt="React" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="55" height="55" alt="Angular" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55" alt="Python" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="55" height="55" alt="Unity" style="margin: 0 10px;" />
-</div>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,react,angular,ts,sqlserver,postgres,unity" alt="Practicing Technologies" />
+</a>
 
+<br/>
 <br/>
 
 ### Currently Learning
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="55" height="55" alt="Supabase" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="55" height="55" alt="Flutter" style="margin: 0 10px;" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,supabase" alt="Learning Technologies" />
+</a>
+
 </div>
 
 <br/>
-
-### Featured Projects
-
-<details>
-  <summary><b>[Project Name 1]</b></summary>
-  <br/>
-  [Add a detailed description of your project here. What does it do? What technologies did you use?]
-  <br/>
-  <br/>
-  <a href="#">[Link to Repository or Live Demo]</a>
-</details>
-
-<hr/>
-
-<details>
-  <summary><b>[Project Name 2]</b></summary>
-  <br/>
-  [Add a detailed description of your project here. What does it do? What technologies did you use?]
-  <br/>
-  <br/>
-  <a href="#">[Link to Repository or Live Demo]</a>
-</details>
-
-<hr/>
-
-<details>
-  <summary><b>[Project Name 3]</b></summary>
-  <br/>
-  [Add a detailed description of your project here. What does it do? What technologies did you use?]
-  <br/>
-  <br/>
-  <a href="#">[Link to Repository or Live Demo]</a>
-</details>
-
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurHenriSantos&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&text_color=777777&icon_color=2F80ED&text_bold=false" alt="GitHub Stats" />
+  
+### Featured Projects
+
+<details>
+  <summary><b>✨ Click to expand and see my projects</b></summary>
+  <br/>
+  
+  <!-- Add your projects here following the format below: -->
+  <!-- 
+  **[Project Name](link-to-project)**
+  <br/>
+  Description of the project.
+  <br/><br/>
+  -->
+  
+</details>
+
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+
+### GitHub Activity & Contributions
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+<br/>
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=ArthurHenriSantos&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+
 </div>
