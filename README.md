@@ -11,7 +11,7 @@
 ### Practicing & Using
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,react,angular,ts,sqlserver,postgres,unity" alt="Practicing Technologies" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,react,angular,ts,postgres,unity" alt="Practicing Technologies" />
 </a>
 
 <br/>
