@@ -32,19 +32,52 @@
   
 ### Featured Projects
 
-<details>
-  <summary><b>✨ Click to expand and see my projects</b></summary>
-  <br/>
-  
-  <!-- Add your projects here following the format below: -->
-  <!-- 
-  **[Project Name](link-to-project)**
-  <br/>
-  Description of the project.
-  <br/><br/>
-  -->
-  
-</details>
+<table bordercolor="#30363d">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3><a href="YOUR_PROJECT_LINK_HERE">Project Name</a></h3>
+      <a href="YOUR_PROJECT_LINK_HERE"><img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub Repository" /></a>
+      <br />
+      <br />
+      <p><i>Short, engaging description of the project goes here. Highlight what it does and the main problem it solves.</i></p>
+      <br />
+      <!-- Replace the icons below with the ones used in your project -->
+      <img src="https://skillicons.dev/icons?i=html,css,js" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3><a href="YOUR_PROJECT_LINK_HERE">Project Name</a></h3>
+      <a href="YOUR_PROJECT_LINK_HERE"><img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub Repository" /></a>
+      <br />
+      <br />
+      <p><i>Short, engaging description of the project goes here. Highlight what it does and the main problem it solves.</i></p>
+      <br />
+      <!-- Replace the icons below with the ones used in your project -->
+      <img src="https://skillicons.dev/icons?i=html,css,js" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3><a href="YOUR_PROJECT_LINK_HERE">Project Name</a></h3>
+      <a href="YOUR_PROJECT_LINK_HERE"><img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub Repository" /></a>
+      <br />
+      <br />
+      <p><i>Short, engaging description of the project goes here. Highlight what it does and the main problem it solves.</i></p>
+      <br />
+      <!-- Replace the icons below with the ones used in your project -->
+      <img src="https://skillicons.dev/icons?i=html,css,js" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3><a href="YOUR_PROJECT_LINK_HERE">Project Name</a></h3>
+      <a href="YOUR_PROJECT_LINK_HERE"><img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub Repository" /></a>
+      <br />
+      <br />
+      <p><i>Short, engaging description of the project goes here. Highlight what it does and the main problem it solves.</i></p>
+      <br />
+      <!-- Replace the icons below with the ones used in your project -->
+      <img src="https://skillicons.dev/icons?i=html,css,js" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -55,7 +88,6 @@
 
 ### GitHub Activity & Contributions
 
-<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurHenriSantos/ArthurHenriSantos/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurHenriSantos/ArthurHenriSantos/output/github-contribution-grid-snake.svg">
@@ -65,7 +97,6 @@
 <br/>
 <br/>
 
-<!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=ArthurHenriSantos&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
 </div>
