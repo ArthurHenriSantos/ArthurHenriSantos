@@ -32,6 +32,10 @@
   
 ### Featured Projects
 
+<!-- 
+TO ADD YOUR PROJECTS: Remove this line (<!--) and the last line (-->) of this block.
+Fill in your links, project names, and descriptions below.
+
 <table bordercolor="#30363d">
   <tr>
     <td width="50%" valign="top" align="center">
@@ -41,7 +45,6 @@
       <br />
       <p><i>Short, engaging description of the project goes here. Highlight what it does and the main problem it solves.</i></p>
       <br />
-      <!-- Replace the icons below with the ones used in your project -->
       <img src="https://skillicons.dev/icons?i=html,css,js" />
     </td>
     <td width="50%" valign="top" align="center">
@@ -51,7 +54,6 @@
       <br />
       <p><i>Short, engaging description of the project goes here. Highlight what it does and the main problem it solves.</i></p>
       <br />
-      <!-- Replace the icons below with the ones used in your project -->
       <img src="https://skillicons.dev/icons?i=html,css,js" />
     </td>
   </tr>
@@ -63,7 +65,6 @@
       <br />
       <p><i>Short, engaging description of the project goes here. Highlight what it does and the main problem it solves.</i></p>
       <br />
-      <!-- Replace the icons below with the ones used in your project -->
       <img src="https://skillicons.dev/icons?i=html,css,js" />
     </td>
     <td width="50%" valign="top" align="center">
@@ -73,11 +74,12 @@
       <br />
       <p><i>Short, engaging description of the project goes here. Highlight what it does and the main problem it solves.</i></p>
       <br />
-      <!-- Replace the icons below with the ones used in your project -->
       <img src="https://skillicons.dev/icons?i=html,css,js" />
     </td>
   </tr>
 </table>
+
+-->
 
 </div>
 
