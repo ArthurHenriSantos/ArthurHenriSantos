@@ -32,53 +32,34 @@
   
 ### Featured Projects
 
-<!-- 
-INSTRUCOES: Para tornar os seus projetos visiveis, apague APENAS esta linha de cima (que contem o inicio do comentario HTML) e a ultima linha deste bloco (que contem o fim do comentario).
-
 <table bordercolor="#30363d">
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3><a href="YOUR_PROJECT_LINK_HERE">Project Name</a></h3>
-      <a href="YOUR_PROJECT_LINK_HERE"><img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub Repository" /></a>
+      <h3><a href="https://cz0calculator.pro">Camada Zero Calculator</a></h3>
+      <a href="https://cz0calculator.pro" target="_blank">
+        <img src="https://img.shields.io/badge/Website-cz0calculator.pro-0284c7?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Website" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/ArthurHenriSantos/3D-Calculator" target="_blank">
+        <img src="https://img.shields.io/badge/Repo-3D--Calculator-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repository" />
+      </a>
       <br />
       <br />
-      <p><i>Short, engaging description of the project goes here. Highlight what it does and the main problem it solves.</i></p>
+      <p><i>Full-stack smart pricing, quoting, sales management, and digital catalog platform tailored for 3D printing businesses and makers.</i></p>
       <br />
-      <img src="https://skillicons.dev/icons?i=html,css,js" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,react,tailwind,postgres" alt="C#, .NET, React, Tailwind, PostgreSQL" />
     </td>
     <td width="50%" valign="top" align="center">
-      <h3><a href="YOUR_PROJECT_LINK_HERE">Project Name</a></h3>
-      <a href="YOUR_PROJECT_LINK_HERE"><img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub Repository" /></a>
+      <h3>Coming Soon</h3>
+      <img src="https://skillicons.dev/icons?i=github" width="30" alt="Next Project" />
       <br />
       <br />
-      <p><i>Short, engaging description of the project goes here. Highlight what it does and the main problem it solves.</i></p>
+      <p><i>Exciting new projects currently under development. Stay tuned for more open-source tools and applications!</i></p>
       <br />
-      <img src="https://skillicons.dev/icons?i=html,css,js" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3><a href="YOUR_PROJECT_LINK_HERE">Project Name</a></h3>
-      <a href="YOUR_PROJECT_LINK_HERE"><img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub Repository" /></a>
-      <br />
-      <br />
-      <p><i>Short, engaging description of the project goes here. Highlight what it does and the main problem it solves.</i></p>
-      <br />
-      <img src="https://skillicons.dev/icons?i=html,css,js" />
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3><a href="YOUR_PROJECT_LINK_HERE">Project Name</a></h3>
-      <a href="YOUR_PROJECT_LINK_HERE"><img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub Repository" /></a>
-      <br />
-      <br />
-      <p><i>Short, engaging description of the project goes here. Highlight what it does and the main problem it solves.</i></p>
-      <br />
-      <img src="https://skillicons.dev/icons?i=html,css,js" />
+      <img src="https://skillicons.dev/icons?i=flutter,dart,supabase" alt="Flutter, Dart, Supabase" />
     </td>
   </tr>
 </table>
-
--->
 
 </div>
 
