@@ -64,5 +64,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&text_color=777777&icon_color=2F80ED&text_bold=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurHenriSantos&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&text_color=777777&icon_color=2F80ED&text_bold=false" alt="GitHub Stats" />
 </div>
