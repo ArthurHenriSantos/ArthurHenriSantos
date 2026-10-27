@@ -33,8 +33,7 @@
 ### Featured Projects
 
 <!-- 
-TO ADD YOUR PROJECTS: Remove this line (<!--) and the last line (-->) of this block.
-Fill in your links, project names, and descriptions below.
+INSTRUCOES: Para tornar os seus projetos visiveis, apague APENAS esta linha de cima (que contem o inicio do comentario HTML) e a ultima linha deste bloco (que contem o fim do comentario).
 
 <table bordercolor="#30363d">
   <tr>
