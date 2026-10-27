@@ -37,15 +37,11 @@
     <td width="50%" valign="top" align="center">
       <h3><a href="https://cz0calculator.pro">Camada Zero Calculator</a></h3>
       <a href="https://cz0calculator.pro" target="_blank">
-        <img src="https://img.shields.io/badge/Website-cz0calculator.pro-0284c7?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Website" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/ArthurHenriSantos/3D-Calculator" target="_blank">
-        <img src="https://img.shields.io/badge/Repo-3D--Calculator-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repository" />
+        <img src="https://img.shields.io/badge/Live_Product-cz0calculator.pro-0284c7?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Product" />
       </a>
       <br />
       <br />
-      <p><i>Full-stack smart pricing, quoting, sales management, and digital catalog platform tailored for 3D printing businesses and makers.</i></p>
+      <p><i>Full-stack smart pricing, quoting, sales management, and digital catalog SaaS platform tailored for 3D printing businesses and makers.</i></p>
       <br />
       <img src="https://skillicons.dev/icons?i=cs,dotnet,react,tailwind,postgres" alt="C#, .NET, React, Tailwind, PostgreSQL" />
     </td>
@@ -54,7 +50,7 @@
       <img src="https://skillicons.dev/icons?i=github" width="30" alt="Next Project" />
       <br />
       <br />
-      <p><i>Exciting new projects currently under development. Stay tuned for more open-source tools and applications!</i></p>
+      <p><i>Exciting new projects currently under development. Stay tuned for more applications and tools!</i></p>
       <br />
       <img src="https://skillicons.dev/icons?i=flutter,dart,supabase" alt="Flutter, Dart, Supabase" />
     </td>
